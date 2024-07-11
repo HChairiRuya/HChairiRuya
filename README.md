@@ -1,3 +1,5 @@
+https://github.com/HChairiRuya/HChairiRuya/assets/103891316/6b66a6e8-2e53-48e1-94c9-052f8c08cb8a
+
 <h1 align="center">Hi 👋, I'm Houda Chairi</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
